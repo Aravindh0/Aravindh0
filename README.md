@@ -1,5 +1,5 @@
 [![MasterHead](https://camo.githubusercontent.com/f401c2aa72bf748bd1aae72b2768d9ff07dc8ec2131780f36fa689bdd6f2c5fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30662f32352f65342f30663235653436363863316337373430623565643431383335333339643637662e676966)]
-<h1 align="center">Hi 👋, I'm A. Aravindh</h1>
+<h1 align="center">Hi 👋, I'm Aravindh. A</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeAzCnqfE6R0GVCOg1b9YMhh6TrqcP5mJew&s" />
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/aravindh a](https://www.linkedin.com/in/aravindh-a-8b9888249/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravindh a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aravindh-a-8b9888249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravindh a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindh0&show_icons=true&locale=en" alt="aravindh0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravindh0&" alt="aravindh0" /></p>
-
