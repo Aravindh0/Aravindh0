@@ -33,9 +33,6 @@
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
     </a> 
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/python-matplotlib/python-matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/> 
-    </a> 
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
     </a> 
@@ -50,10 +47,7 @@
     </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-    </a> 
-    <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Microsoft_Azure_Logo.svg" alt="adf" width="40" height="40"/> 
-    </a> 
+    </a>  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindh0&show_icons=true&locale=en&layout=compact" alt="aravindh0" /></p>
