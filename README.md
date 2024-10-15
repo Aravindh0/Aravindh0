@@ -15,38 +15,29 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="tsql" width="40" height="40"/> 
+    <a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="tsql" width="40" height="40"/> 
     </a> 
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+    <a href="https://icons8.com/icon/pIJdjOoL6KfU/python" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="python" width="40" height="40"/> 
     </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <a href="https://icons8.com/icon/xSkewUSqtErH/pandas" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="numpy" width="40" height="40"/> 
+    </a>
+    <a href="https://icons8.com/icon/aR9CXyMagKIS/numpy" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="pandas" width="40" height="40"/> 
+    </a>  
+    <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.toric.com%2Fintegrations%2Fdatabricks&psig=AOvVaw1VUGlSVaw1vGkZG6f3ufvl&ust=1729083466533000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDwyvK3kIkDFQAAAAAdAAAAABAJ" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png" alt="databricks" width="40" height="40"/> 
     </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <a href="https://icons8.com/icon/0cRqPqlItA0E/apache-spark" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" alt="kafka" width="40" height="40"/> 
+    </a>
+    <a href="https://icons8.com/icon/fOhLNqGJsUbJ/apache-kafka" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" alt="kafka" width="40" height="40"/> 
     </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-    </a> 
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-    </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-    </a> 
-    <a href="https://databricks.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/768px-Databricks_Logo.png" alt="databricks" width="40" height="40"/> 
-    </a> 
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="pyspark" width="40" height="40"/> 
-    </a> 
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> 
-    </a> 
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+    <a href="https://icons8.com/icon/VLKafOkk3sBX/azure" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="azure" width="40" height="40"/> 
     </a>  
 </p>
 
