@@ -1,4 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/f401c2aa72bf748bd1aae72b2768d9ff07dc8ec2131780f36fa689bdd6f2c5fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30662f32352f65342f30663235653436363863316337373430623565643431383335333339643637662e676966)
+
 <h1 align="center">Hi 👋, I'm Aravindh. A</h1>
 <h3 align="center">Data Engineer</h3>
 
@@ -7,6 +8,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindh0&label=Profile%20views&color=0e75b6&style=flat" alt="aravindh0" /> </p>
 
 - 📫 How to reach me **arvndh001@gmail.com**
+
+<h3 align="left">Experience:</h3>
+<p align="left">
+    <img src="https://www.conversedatasolutions.com/_next/image?url=https%3A%2F%2Fconversedatasolutions.com%2F%2Fimages%2Fcdspng.png&w=1080&q=75" alt="Converse Data Solutions" width="80" height="40"/>
+    Working at <strong>Converse Data Solutions</strong>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +32,6 @@
     <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" alt="kafka" width="40" height="40"/> 
     <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="azure" width="40" height="40"/> 
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindh0&show_icons=true&locale=en&layout=compact" alt="aravindh0" /></p>
 
