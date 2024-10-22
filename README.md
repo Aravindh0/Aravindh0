@@ -33,6 +33,11 @@
     <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="azure" width="40" height="40"/> 
 </p>
 
+<h3 align="left">LeetCode Stats:</h3>
+<p align="left">
+    <img src="https://leetcard.jacoblin.cool/Aravindh_01?theme=light&font=source_code_pro" alt="LeetCode Stats" />
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindh0&show_icons=true&locale=en&layout=compact" alt="aravindh0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindh0&show_icons=true&locale=en" alt="aravindh0" /></p>
