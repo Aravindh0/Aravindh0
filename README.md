@@ -4,7 +4,7 @@
 
 <h1>Hi 👋, I'm Aravindh A</h1>
 
-<h3>🚀 Microsoft Fabric Data Engineer | Azure | PySpark | SQL | Power BI</h3>
+<h3>🚀 Microsoft Fabric Data Engineer | Azure | PySpark | SQL | Power BI | Sigma Computing</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9AFE&center=true&vCenter=true&width=700&lines=Microsoft+Fabric+Data+Engineer;Azure+Data+Engineer;PySpark+%7C+SQL+Developer;Power+BI+Developer;Snowflake+%7C+dbt+%7C+Sigma+Computing;Always+Learning+%26+Building"/>
 
